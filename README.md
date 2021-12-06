@@ -1,3 +1,3 @@
-# uwfintech
+# fintech
 
-This repo is for my UW fintech bootcamp course.
+This repo is for my practice fintech projects.
